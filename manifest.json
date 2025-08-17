@@ -8,7 +8,7 @@
       "type": "image/x-icon"
     },
     {
-      "src": "icon.svg",
+      "src": "minimal-icon.svg",
       "type": "image/svg+xml",
       "sizes": "any",
       "purpose": "any maskable"
